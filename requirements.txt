@@ -1,0 +1,35 @@
+# Core Framework
+streamlit
+
+# Data Processing
+pandas==2.1.1
+numpy==1.25.2
+xarray==2023.8.0
+
+# Visualization
+plotly==5.17.0
+
+# NASA Data Access (for production)
+pydap==3.4.0
+netCDF4==1.6.4
+h5py==3.9.0
+
+# API and Web
+requests==2.31.0
+urllib3==2.0.5
+
+# Export functionality
+openpyxl==3.1.2
+fpdf==1.7.2
+
+# Geospatial
+geopy==2.4.0
+
+# Caching (optional for production)
+redis==5.0.0
+
+# Date/Time handling
+python-dateutil==2.8.2
+
+# Configuration
+python-dotenv==1.0.0
