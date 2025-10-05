@@ -2,34 +2,34 @@
 streamlit
 
 # Data Processing
-pandas==2.1.1
-numpy==1.25.2
-xarray==2023.8.0
+pandas
+numpy
+xarray
 
 # Visualization
-plotly==5.17.0
+plotly
 
 # NASA Data Access (for production)
-pydap==3.4.0
-netCDF4==1.6.4
-h5py==3.9.0
+pydap
+netCDF4
+h5py
 
 # API and Web
-requests==2.31.0
-urllib3==2.0.5
+requests
+urllib3
 
 # Export functionality
-openpyxl==3.1.2
-fpdf==1.7.2
+openpyxl
+fpdf
 
 # Geospatial
-geopy==2.4.0
+geopy
 
 # Caching (optional for production)
-redis==5.0.0
+redis
 
 # Date/Time handling
-python-dateutil==2.8.2
+python-dateutil
 
 # Configuration
-python-dotenv==1.0.0
+python-dotenv
