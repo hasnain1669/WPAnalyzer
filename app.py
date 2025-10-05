@@ -10,7 +10,7 @@ from export_handler import export_to_csv, export_to_json, generate_pdf_report
 
 # Page configuration
 st.set_page_config(
-    page_title="NASA Weather Probability Analyzer",
+    page_title="Weather Probability Analyzer",
     page_icon="🌦️",
     layout="wide",
     initial_sidebar_state="expanded"
